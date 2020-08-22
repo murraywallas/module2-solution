@@ -12,12 +12,18 @@
 <body>
   <h1>My page</h1>  
     <div class="container">
-    <div class="col-lg-3 col-md-6 col-sm-12 box"><p><span class="title1">Title1</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p></div>  
-   
-    <div class="col-lg-3 col-md-6 col-sm-12 box"><p><span class="title2">Title2</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p></div>
-        
-    <div class="col-lg-3 col-md-12 col-sm-12 box"><p><span class="title3">Title3</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p></div>    
+        <div class= "col-lg-3 col-md-6 col-sm-12">
+            <section>
+            <div class= "title1">Title 1</div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></section></div>
+        <div class= "col-lg-3 col-md-6 col-sm-12">
+            <section>
+            <div class= "title2">Title 2</div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></section></div>
+        <div class= "col-lg-3 col-md-12 col-sm-12">
+            <section>
+            <div class= "title3">Title 3</div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></section></div>
     </div>
-    
 </body>     
 </html>
