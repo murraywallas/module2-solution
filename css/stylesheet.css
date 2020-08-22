@@ -19,7 +19,9 @@ span {
     margin: 0% 0% 3% 180%;
     float: right;
     text-align: center;
+    position: relative;
 }
+
 
 p {
     width: 90%;
@@ -34,7 +36,8 @@ p {
 
 
 .title1 {
-    left: 80%;
+    left: 1.2%;
+    top: 5%;
     border: 1px solid black;
     color: white;
     background-color: #6C2AD5;
@@ -42,7 +45,7 @@ p {
 }
 
 .title2 {
-    left: 80%;
+    left: 1.2%;
     border: 1px solid black;
     color: white;
     background-color: #D56C2A;
@@ -50,7 +53,7 @@ p {
 }
 
 .title3 {
-    left: 80%;
+    left: 1.2%;
     border: 1px solid black;
     color: white;
     background-color: #2AD56C;
